@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/baroness-orczy/the-first-sir-percy</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2021-01-08T17:32:54Z</dc:date>
+		<meta property="dcterms:modified">2021-01-08T17:32:54Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -45,15 +45,15 @@
 		<meta property="group-position" refines="#collection-1">7</meta>
 		<dc:description id="description">A man and his followers try again to overthrow the Stadtholder of the Netherlands.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Set a mere three months after &lt;a href="https://standardebooks.org/ebooks/baroness-orczy/the-laughing-cavalier"&gt;&lt;i&gt;The Laughing Cavalier&lt;/i&gt;&lt;/a&gt;, the titular first Sir Percy is set to wed his love Gilda in a double wedding with her brother and his intended. The attendees include many rich and famous, including the Stadtholder himself. But immediately after the ceremony, bad news arrives, and Percy, &lt;abbr class="initialism"&gt;A.K.A.&lt;/abbr&gt; Diogenes, is tasked with rushing to get messages to two of the Stadtholder’s divisions in peril from the enemy. But there are unknown enemies about as well as known ones, and Diogenes will soon face the darkest hours and direst threats of his young life.&lt;/p&gt;
+			&lt;p&gt;Set a mere three months after &lt;a href="https://standardebooks.org/ebooks/baroness-orczy/the-laughing-cavalier"&gt;&lt;i&gt;The Laughing Cavalier&lt;/i&gt;&lt;/a&gt;, the titular first Sir Percy is set to wed his love Gilda in a double wedding with her brother and his intended. The attendees include many of the rich and famous, including the Stadtholder himself. But immediately after the ceremony, bad news arrives, and Percy, &lt;abbr class="initialism"&gt;A.K.A.&lt;/abbr&gt; Diogenes, is tasked with rushing to get messages to two of the Stadtholder’s divisions that are in peril from the enemy. But there are unknown enemies about as well as known ones, and Diogenes will soon face the darkest hours and direst threats of his young life.&lt;/p&gt;
 			&lt;p&gt;In the seventh entry in the series, &lt;a href="https://standardebooks.org/ebooks/baroness-orczy"&gt;Baroness Orczy&lt;/a&gt; returns again to early seventeenth-century Netherlands, but with a darker tone than &lt;i&gt;The Laughing Cavalier&lt;/i&gt;. This time she turns her focus to the antagonist and his henchmen, and once again puts her hero in an untenable position. This time the nation’s life is at stake, as well as his own.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>http://gutenberg.net.au/ebooks06/0602601h.html</dc:source>
 		<dc:source>https://books.google.com/books?id=2Lk_AQAAIAAJ</dc:source>
 		<meta property="se:production-notes">At the time of this production, there was no US transcription, so this uses one from Gutenberg's Australia site. There are several Dutch words used often enough that only the first instance is italicized.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">92392</meta>
+		<meta property="se:reading-ease.flesch">70.33</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_First_Sir_Percy</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/baroness-orczy_the-first-sir-percy</meta>
 		<dc:creator id="author">Baroness Orczy</dc:creator>
@@ -82,6 +82,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
