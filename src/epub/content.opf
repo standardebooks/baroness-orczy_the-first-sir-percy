@@ -43,14 +43,15 @@
 		<meta id="collection-1" property="belongs-to-collection">Scarlet Pimpernel</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">7</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A man and his followers try again to overthrow the Stadtholder of the Netherlands.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Set a mere three months after &lt;a href="https://standardebooks.org/ebooks/baroness-orczy/the-laughing-cavalier"&gt;&lt;i&gt;The Laughing Cavalier&lt;/i&gt;&lt;/a&gt;, the titular first Sir Percy is set to wed his love Gilda in a double wedding with her brother and his intended. The attendees include many rich and famous, including the Stadtholder himself. But immediately after the ceremony, bad news arrives, and Percy, &lt;abbr class="initialism"&gt;A.K.A.&lt;/abbr&gt; Diogenes, is tasked with rushing to get messages to two of the Stadtholder’s divisions in peril from the enemy. But there are unknown enemies about as well as known ones, and Diogenes will soon face the darkest hours and direst threats of his young life.&lt;/p&gt;
+			&lt;p&gt;In the seventh entry in the series, &lt;a href="https://standardebooks.org/ebooks/baroness-orczy"&gt;Baroness Orczy&lt;/a&gt; returns again to early seventeenth-century Netherlands, but with a darker tone than &lt;i&gt;The Laughing Cavalier&lt;/i&gt;. This time she turns her focus to the antagonist and his henchmen, and once again puts her hero in an untenable position. This time the nation’s life is at stake, as well as his own.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>http://gutenberg.net.au/ebooks06/0602601h.html</dc:source>
 		<dc:source>https://books.google.com/books?id=2Lk_AQAAIAAJ</dc:source>
-		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
+		<meta property="se:production-notes">At the time of this production, there was no US transcription, so this uses one from Gutenberg's Australia site. There are several Dutch words used often enough that only the first instance is italicized.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_First_Sir_Percy</meta>
