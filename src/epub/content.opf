@@ -42,7 +42,7 @@
 		<meta property="se:subject">Fiction</meta>
 		<meta id="collection-1" property="belongs-to-collection">Scarlet Pimpernel</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
-		<meta property="group-position" refines="#collection-1">7</meta>
+		<meta property="group-position" refines="#collection-1">8</meta>
 		<dc:description id="description">A man and his followers try again to overthrow the Stadtholder of the Netherlands.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Set a mere three months after &lt;a href="https://standardebooks.org/ebooks/baroness-orczy/the-laughing-cavalier"&gt;&lt;i&gt;The Laughing Cavalier&lt;/i&gt;&lt;/a&gt;, the titular first Sir Percy is set to wed his love Gilda in a double wedding with her brother and his intended. The attendees include many of the rich and famous, including the Stadtholder himself. But immediately after the ceremony, bad news arrives, and Percy, &lt;abbr class="initialism"&gt;A.K.A.&lt;/abbr&gt; Diogenes, is tasked with rushing to get messages to two of the Stadtholder’s divisions that are in peril from the enemy. But there are unknown enemies about as well as known ones, and Diogenes will soon face the darkest hours and direst threats of his young life.&lt;/p&gt;
