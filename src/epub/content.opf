@@ -52,7 +52,7 @@
 		<dc:source>https://books.google.com/books?id=2Lk_AQAAIAAJ</dc:source>
 		<meta property="se:production-notes">At the time of this production, there was no US transcription, so this uses one from Gutenberg's Australia site. There are several Dutch words used often enough that only the first instance is italicized.</meta>
 		<meta property="se:word-count">92392</meta>
-		<meta property="se:reading-ease.flesch">70.33</meta>
+		<meta property="se:reading-ease.flesch">70.43</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_First_Sir_Percy</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/baroness-orczy_the-first-sir-percy</meta>
 		<dc:creator id="author">Baroness Orczy</dc:creator>
