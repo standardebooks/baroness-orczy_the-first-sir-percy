@@ -1,0 +1,1 @@
+At the time of this production, there was no US transcription, so this uses one from Gutenberg's Australia site. There are several Dutch words used often enough that only the first instance is italicized.
