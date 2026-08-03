@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/baroness-orczy/the-first-sir-percy</dc:identifier>
 		<dc:date>2021-01-08T17:32:54Z</dc:date>
@@ -44,11 +44,11 @@
 		<meta id="collection-1" property="belongs-to-collection">Scarlet Pimpernel</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">2</meta>
-		<dc:description id="description">A man and his followers try again to overthrow the Stadtholder of the Netherlands.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A man and his followers try again to overthrow the Stadtholder of the Netherlands.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Set a mere three months after &lt;a href="https://standardebooks.org/ebooks/baroness-orczy/the-laughing-cavalier"&gt;&lt;i&gt;The Laughing Cavalier&lt;/i&gt;&lt;/a&gt;, the titular first Sir Percy is set to wed his love Gilda in a double wedding with her brother and his intended. The attendees include many of the rich and famous, including the Stadtholder himself. But immediately after the ceremony, bad news arrives, and Percy, &lt;abbr class="initialism"&gt;A.K.A.&lt;/abbr&gt; Diogenes, is tasked with rushing to get messages to two of the Stadtholder’s divisions that are in peril from the enemy. But there are unknown enemies about as well as known ones, and Diogenes will soon face the darkest hours and direst threats of his young life.&lt;/p&gt;
 			&lt;p&gt;In the seventh published novel in the series, &lt;a href="https://standardebooks.org/ebooks/baroness-orczy"&gt;Baroness Orczy&lt;/a&gt; returns again to early seventeenth-century Netherlands, but with a darker tone than &lt;i&gt;The Laughing Cavalier&lt;/i&gt;. This time she turns her focus to the antagonist and his henchmen, and once again puts her hero in an untenable position. This time the nation’s life is at stake, as well as his own.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.net.au/ebooks06/0602601h.html</dc:source>
 		<dc:source>https://books.google.com/books?id=2Lk_AQAAIAAJ</dc:source>
